@@ -1,4 +1,4 @@
-p{
+.red-box{
    background-color: #FF6363;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-family: DejavU Sans, sans-serif;
@@ -7,4 +7,14 @@ p{
 #second {
     color: #0065F8;
     font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#big {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #9FC87E;
 }
